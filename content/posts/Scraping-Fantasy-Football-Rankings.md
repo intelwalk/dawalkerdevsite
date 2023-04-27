@@ -1,7 +1,7 @@
 ---
 title: "Scraping Fantasy Football "
 date: 2021-1-22T05:15:47-05:00
-draft: false
+draft: true
 image: pandaspython.jpeg
 tags: [
 	"python",
